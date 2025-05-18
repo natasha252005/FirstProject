@@ -1,4 +1,3 @@
-php<?
-echo "Hi";
-?
-?123
+<?php 
+echo "Hi"; 
+?>
